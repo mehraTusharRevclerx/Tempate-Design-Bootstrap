@@ -18,7 +18,7 @@ body {
   /* margin: auto; */
 }
 .mainHeading {
-  padding: 7% 0 3% 0;
+  padding: 5% 0 3% 0;
   font-size: 3.5rem;
 }
 .bgimage {
@@ -51,4 +51,24 @@ body {
 }
 .card {
   max-width: 84%;
+}
+
+.card-1{
+  position: relative;
+  top: 20%
+}
+
+
+
+.card-2{
+  position: relative;
+  top: 1%
+}
+.card-3{
+  position: relative;
+  top: 20%
+}
+.card-4{
+  position: relative;
+  top: 1%
 }
